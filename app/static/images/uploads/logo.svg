@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="41px" height="39px" viewBox="0 0 41 39" version="1.1" xmlns="http://www.w3.org/2000/svg"
-	 xmlns:xlink="http://www.w3.org/1999/xlink">
-	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-		<path
-			d="M11.6322341,0.621339181 C-0.98156407,7.0360394 -3.15905398,23.3580119 4.23659007,33.149238 C11.6322341,42.9404641 19.5139375,38.037723 23.8409829,33.149238 C26.9029455,29.3705858 41,42.6044308 41,33.149238 C41,23.6940452 37.9646378,13.4507395 28.1680282,7.0360394 C18.3714187,0.621339181 14.9894036,-1.08593688 11.6322341,0.621339181 Z"
-			id="Path" fill="#0B3765" fill-rule="nonzero"></path>
-	</g>
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31.39 32.92"><defs><style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3{fill:url(#linear-gradient-3);}</style><linearGradient id="linear-gradient" x1="18.88" y1="28.9" x2="21.53" y2="7.23" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#262261"/><stop offset="1" stop-color="#eb008b"/></linearGradient><linearGradient id="linear-gradient-2" x1="16.87" y1="32.3" x2="7.2" y2="25.08" xlink:href="#linear-gradient"/><linearGradient id="linear-gradient-3" x1="19.43" y1="23.7" x2="27.57" y2="39.98" xlink:href="#linear-gradient"/></defs><path class="cls-1" d="M24.18,26.25a6.75,6.75,0,0,1-4.47,1.27,6.88,6.88,0,1,1,5.15-11.91A4.65,4.65,0,0,0,28,16.88h.19a4.65,4.65,0,0,0,3.22-8,16.3,16.3,0,1,0,3.84,18H24.18Z" transform="translate(-3.88 -4.35)"/><path class="cls-2" d="M16.74,27c-2.65,0-6.21-3.53-8.32.55-1.29,2.48-2.57.79-2.57.79A16.29,16.29,0,0,0,10,33.57c4.58.29,9.52-.34,8.85-5.92,0-.27.18.29,0-.27C17.63,27.41,17.84,27,16.74,27Z" transform="translate(-3.88 -4.35)"/><path class="cls-3" d="M29.74,24.93C26.12,23,25,23.69,23,26a4.53,4.53,0,0,1-1.8,1.29,4.24,4.24,0,0,1-2.32.07c.67,5.59-4.29,6.48-8.87,6.19a16.27,16.27,0,0,0,25.07-5.69,1.85,1.85,0,0,0-2.19-2.57A3.57,3.57,0,0,1,29.74,24.93Z" transform="translate(-3.88 -4.35)"/></svg>
