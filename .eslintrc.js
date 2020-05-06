@@ -19,7 +19,6 @@ module.exports = {
   plugins: ['@typescript-eslint', 'prettier', 'vue'],
   // add your custom rules here
   rules: {
-    'prettier/prettier': ['error', { singleQuote: true, trailingComma: 'es5', printWidth: 100 }],
     'import/extensions': [
       'error',
       'always',
