@@ -41,10 +41,17 @@ export default class Header extends Vue {
 </script>
 
 <style lang="scss">
+.header {
+	&__logo {
+		width: 60px;
+		height: 60px;
+	}
+}
+
 .nav {
 	ul li > a {
 		&.nuxt-link-active {
-			color: $bluise;
+			color: $primary;
 			@apply font-bold;
 		}
 	}
