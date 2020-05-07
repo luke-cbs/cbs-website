@@ -25,7 +25,7 @@
 						/>
 
 						<button
-							class="flex-shrink-0 bg-blue-500 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
+							class="flex-shrink-0 bg-pink-700 hover:bg-pink-800 border-pink-700 hover:border-pink-800 text-sm border-4 text-white py-1 px-2 rounded"
 							type="submit"
 						>
 							Sign Up
@@ -34,7 +34,7 @@
 				</div>
 			</div>
 			<div class="flex flex-col w-full xl:w-2/5">
-				<img class="rounded shadow-xl" src="https://source.unsplash.com/random/720x400"/>
+				<img class="rounded shadow-xl" src="https://source.unsplash.com/random/720x400?code"/>
 			</div>
 		</div>
 	</section>
@@ -85,7 +85,7 @@ export default class Home extends Vue {
 			await fetch('/', {
 				method: 'POST',
 				headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-				body: this.encode({ 'form-name': 'signups', ...this.form }),
+				body: this.encode({ 'form-name': 'signups', ...this.form })
 			});
 
 			this.isSignedUp = true;
