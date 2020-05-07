@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
+  "titleTemplate": "| CBS",
   "welcomeText": "# Welcome to Cold Brew Studios.\n\nHome of everything tech",
   "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "icon": "/images/uploads/logo.svg",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Cold Brew Studios Ltd. Website and Software Development",
   "seoMetaImage": ""
 }
