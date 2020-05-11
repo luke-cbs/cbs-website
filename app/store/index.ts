@@ -1,7 +1,7 @@
 import { ActionContext, ActionTree, MutationTree } from 'vuex';
 import { Route } from 'vue-router';
 import Vue from 'vue';
-import { getContent } from '@/utils';
+import { getContent } from '~/util/utils';
 
 export interface State {
 	pages: Page[];

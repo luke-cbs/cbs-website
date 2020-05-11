@@ -21,7 +21,7 @@ import { MetaInfo } from 'vue-meta';
 		}
 
 		try {
-			const post = require(`@/content/blog/${params.slug}.json`);
+			const post = require(`@/content/blog/${params.id}.json`);
 
 			return {
 				post,
