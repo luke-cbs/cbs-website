@@ -1,10 +1,12 @@
 {
-  "title": "Home",
-  "titleTemplate": "| CBS",
-  "welcomeText": "# Welcome to Cold Brew Studios.\n\nHome of everything tech",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo-icon.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "Cold Brew Studios Ltd. Website and Software Development",
-  "seoMetaImage": ""
+	"title": "Home",
+	"titleTemplate": "| CBS",
+	"welcomeText": "## Welcome to \n\n # Cold Brew Studios.",
+	"tailoredText": "## Creating tailored software solutions. \n\n By gaining deep insight into your idea's we are able to craft custom solutions. That are not only scalable. But easily maintainable.",
+	"developedText": "## Providing guidance into existing projects. \n\n Sometimes you already have a great idea made and working in the real world. However you may not be too sure on how to tackle existing problems. Or need an extra developer on the job. We provide not only consulting but also hands on developer help to get the job done.",
+	"logo": "/images/uploads/logo.svg",
+	"icon": "/images/uploads/logo-icon.png",
+	"loadingColor": "#0b3765",
+	"seoDescription": "Cold Brew Studios Ltd. Software Development Agency",
+	"seoMetaImage": ""
 }

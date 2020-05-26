@@ -31,7 +31,7 @@ export default class DefaultLayout extends Vue {
 <style lang="scss">
 .divider {
 	position: relative;
-	min-width: 100vw;
+	min-width: 99vw;
 	margin-top: auto;
 }
 
